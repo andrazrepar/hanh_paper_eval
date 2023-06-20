@@ -1,0 +1,1596 @@
+biomehanik	6	1
+baza podatek	1	0
+nosilec avtorski pravica	1	0
+fizika	5	1
+rekreativen šport	1	1
+alpski smučanje	5	1
+veleslalom	1	1
+trener	2	0
+smuč	3	1
+karving	1	1
+rekreativen smuč	1	1
+klasičen smuč	2	0
+tekmovalen smučanje	1	1
+smučarski tehnika	2	1
+mehanika zavijanje	1	1
+zarezen smučanje	1	1
+klasičen tehnika	1	1
+načelo zavijanje	1	1
+mehanski pogoj	1	0
+metodika poučevanje	1	1
+biomehanika smučanje	1	1
+formula 1	1	0
+gibalen veriga	1	1
+biomehanika	24	1
+kineziologija	4	1
+kinetika človek	1	1
+pojem	3	0
+kineziološki znanost	2	1
+psihološki mehanizem	1	1
+anatomija	1	1
+fiziologija	2	1
+psihologija	1	1
+nevrologija	1	0
+definicija	14	0
+mehanika živ organizem	1	1
+mehanika	7	1
+biologija	1	0
+osnoven zakonitost gibanje	1	1
+težišče telo	23	1
+krčenje mišica	2	1
+gibanje segment	1	0
+aerodinamika	1	1
+hidrodinamika	1	1
+makro gibanje	1	1
+mehanski lastnost	2	0
+funkcija tkivo	1	1
+organ	1	1
+dihalo	1	1
+slušen aparat	1	1
+krven obtočilo	1	1
+procesiranje	3	0
+človeški čutilo	1	1
+merilen tehnologija	1	0
+gibanje	46	1
+objektiven izmerek	1	0
+senzor	2	0
+merilen inštrument	1	0
+obdelava podatek	1	0
+analiza podatek	1	0
+izračunan parameter	1	0
+statističen obdelava	1	0
+izmerjen parameter	1	0
+kvantitativen rezultat	1	0
+naraven zakonitost	1	0
+biomehanski načelo	1	1
+zakonitost	1	0
+hitrost	53	0
+pospešek	29	0
+sila	222	1
+2. newtonov zakon	11	1
+siliti	2	1
+zaviranje	1	0
+trenje	12	1
+upor	4	0
+obtekanje zrak	1	0
+tokovnica	6	1
+vrtinčenje molekula zrak	1	1
+sila trenje	8	0
+drsen obloga	1	1
+molekulski slika	1	1
+tehnika smučanje	1	1
+mišičen sila	3	1
+mišica	26	1
+celica	2	0
+biomehanski modeliranje športnik	1	1
+športen rekvizit	2	1
+klasičen mehanika	1	1
+matematika	3	0
+kinematika	8	1
+fizikalen področje	1	0
+delec	1	0
+proton atom	1	0
+galaksija	1	0
+osnoven enota	2	0
+dolžina	7	0
+meter	1	0
+enota	8	0
+čas	33	0
+sekunda	1	0
+masa	33	0
+kilogram	1	0
+energija	4	0
+neosnoven enota	1	0
+minuta	1	0
+ura	1	0
+teden	1	0
+milimeter	1	0
+centimeter	1	0
+kilometer	1	0
+gram	1	0
+dekagram	1	0
+ton	1	0
+makroskopski svet	1	0
+tridimenzionalen vektorski prostor	1	0
+koordinata	4	0
+naprej-nazaj	1	0
+levo-desno	1	0
+gor-dol	1	0
+prostor	2	0
+opazovan sistem	6	0
+točkast telo	11	1
+telo	115	1
+dimenzija	2	0
+lasten os	3	0
+sistem točkast telo	3	1
+točka	3	0
+tog telo	22	1
+volumen telo	2	1
+gostota	6	0
+volumen	1	0
+sistem tog telo	3	1
+športnik	7	1
+masen točka	8	1
+lopar	1	1
+nagib	1	1
+sprememba smer	1	1
+vrtenje okoli lasten os	1	1
+kot	19	1
+komolčen sklep	1	1
+translatoren gibanje	1	1
+lega	1	1
+krajeven vektor	8	0
+tangenta	2	0
+krivulja	5	0
+kvocient	3	1
+hitrost gibanje	6	1
+fizikalen količina	3	1
+časoven enota	3	0
+smer	23	0
+vektor	11	0
+vektor hitrost	2	0
+absoluten vrednost	3	0
+količnik	3	0
+odvod	3	0
+pot	32	1
+drug odvod	1	0
+enakomerno pospešen gibanje	3	1
+neenakomerno pospešen gibanje	1	1
+enačba	38	0
+diagram	2	0
+časoven odvod	2	0
+smeren količnik	1	1
+diagram pot	1	0
+maksimum	4	0
+minimum	1	0
+integral	4	0
+ploščina	2	0
+vrednost funkcija	1	0
+abscisen os	1	0
+pozitiven funkcija	1	0
+negativen funkcija	1	0
+povprečen hitrost	4	0
+povprečen pospešek	2	0
+časoven interval	3	0
+končen položaj	1	1
+atlet	2	1
+krožen atletski steza	1	1
+tek	21	1
+steza	1	1
+velikost hitrost	3	0
+enodimenzionalen gibanje	1	1
+enodimenzionalen oblika	1	0
+os	5	0
+premočrten gibanje	3	1
+vektorski oblika	2	0
+enačba gibanje	1	1
+skalaren oblika	1	0
+enakomeren gibanje	3	0
+konstanten pospešek	1	1
+enakomeren pospešen gibanje	2	1
+navpičen met	3	1
+gravitacijski pospešek	10	0
+višina	3	0
+vertikalen hitrost	4	1
+izmet	3	1
+predpostavljen gibanje	1	1
+negativen predznak	2	0
+središče zemlja	1	0
+zračen upor	5	0
+ravninski gibanje	4	0
+dvodimenzionalen kartezičen koordinaten sistem	1	0
+abscisa	2	0
+ordinata	1	0
+poševen met	11	1
+gravitacijski polje zemlja	1	0
+horizontalen smer	3	1
+vertikalen smer	2	0
+izmeten kot	2	1
+začeten kot	1	1
+os gibanje	1	0
+začeten hitrost	2	1
+izhodiščen točka gibanje	1	1
+parametričen oblika	1	0
+tirnica gibanje	2	1
+izhodišče koordinaten sistem	2	0
+enačba parabola	4	0
+parabola	2	0
+tirnica leto	1	1
+domet	6	1
+ničla	2	0
+tirnica	1	0
+visok lega	2	0
+maksimalen višina	1	0
+gibanje telo	4	1
+parabola leto	1	1
+funkcija	1	0
+račun	1	0
+začeten točka leto	1	1
+kot začeten hitrost	1	1
+optimizacija	1	0
+leto	2	0
+horizontalen hitrost	2	0
+majhen kot	1	0
+enačba za domet	2	1
+odvod funkcija	1	0
+končen višina	5	0
+met krogla	1	1
+enačba za višina	1	0
+začeten višina	1	1
+optimalen kot	1	0
+lokostrelec	3	1
+puščica	5	0
+tarča	4	0
+lok	3	1
+izstrelitev	1	0
+dolžina leto	1	0
+enačba za poševen met	1	1
+kroženje	17	1
+športen gibanje	1	1
+krožnica	6	0
+polmer	10	0
+φoklepa	1	0
+radij	4	0
+skalaren produkt	6	0
+absoluten hitrost	1	0
+koten hitrost	17	0
+polmer kroženje	1	0
+radian	2	0
+tangencialen smer	4	1
+koten pospešek	14	1
+tangencialen pospešek	3	0
+obhoden čas	1	0
+skupen pospešek	2	0
+enakomeren kroženje	5	0
+središče kroženje	4	1
+radij kroženje	3	1
+začeten odmik	1	0
+polaren koordinata	2	0
+odmik	1	0
+začeten koten hitrost	1	0
+enakomerno pospešen kroženje	2	1
+radialen pospešek	6	0
+kartezičen koordinata	1	0
+polaren sistem	1	0
+linearen enačba	1	0
+kartezičen koordinaten sistem	1	0
+metalec krogla	1	1
+tangencialen hitrost	1	0
+kladivo	3	1
+metalec kladivo	1	1
+obrat	5	1
+dinamika	6	0
+zakon o gibanje telo pod vpliv sila	1	0
+pospešen gibanje	2	1
+prijemališče	4	1
+newton	1	0
+paralelogramski pravilo	1	1
+vzporeden premik	1	1
+produkt	18	0
+masa telo	6	1
+tretji newtonov zakon	2	1
+zakon o akcija in reakcija	1	1
+zakon o vzajemen učinek	1	1
+makroskopski mehanika šport	1	1
+gravitacijski polje	1	0
+sila težko	7	0
+gravitacijski sila	6	0
+zmnožek	3	0
+gravitacijski konstanta	2	0
+planet	2	0
+daljica	1	0
+težišče	15	1
+telo na klanec	1	1
+sila teža	32	1
+naklonina klančina	1	0
+statičen komponenta sila težko	1	0
+dinamičen komponenta sila teža	1	1
+klančina	2	1
+sila podlaga	9	1
+reakcija	1	0
+statičen primer	2	0
+1. newtonov zakon	4	1
+3. newtonov zakon	4	0
+reakcija podlaga	2	0
+normalen sila	9	0
+normala	1	0
+normalen vektor podlaga	1	0
+statičen komponenta sila teža	1	1
+statičen komponenta	2	0
+sila reakcija podlaga	1	0
+statičen trenje	1	0
+relativen hitrost	9	0
+lepenje	2	0
+kinetičen trenje	3	0
+klanec	1	1
+sila lepenje	2	1
+koeficient lepenje	2	0
+koeficient trenje	2	0
+amontonov 2. zakon	1	1
+kontakten površina	1	1
+neelastičen telo	1	1
+coloumbov trenje	2	0
+kotalen trenje	4	0
+deformacija telo	1	1
+koeficient	2	0
+globina ugrez	1	1
+premer tog kolo	1	1
+koeficient kotalen trenje	1	0
+športen kolo	1	1
+zunanji sila	12	1
+elastičen deformacija	1	1
+deformacija	3	0
+prožnosten modul	1	1
+prečen presek	4	0
+hookov zakon prožnost	1	1
+območje deformacija	1	1
+raztezek	5	1
+hookov zakon	3	1
+meja prožnost	1	0
+plastičen deformacija	1	0
+elastičen telo	1	1
+vzmet	1	0
+sistem	6	0
+skupen koeficient prožnost	1	1
+prožen telo	1	1
+šport	2	1
+medij	2	0
+tekočina	12	0
+obmejen plast tekočina	1	0
+tok	3	0
+viskozen upor	1	1
+viskozen sila	1	0
+viskoznost tekočina	2	1
+stičen površina	1	0
+gradient hitrost	1	0
+turbulenten tok	1	0
+sila upor	4	0
+kvadrat hitrost	1	0
+kvadraten zakon upor	4	1
+koeficient upor	3	0
+gostota medij	1	0
+zastojen tlak	1	0
+bernoullijev enačba	2	1
+pogonski upor	1	1
+plavanje	1	1
+plavalec	1	1
+čelen upor plavalec	1	1
+tok tekočina	1	1
+premer	1	0
+gostota tekočina	2	1
+viskoznost	2	1
+reynoldsov število	2	0
+ravnovesen hitrost	2	1
+dinamičen vzgon	1	0
+upor tekočina	1	0
+koeficient dinamičen vzgon	2	0
+magnusov efekt	2	1
+obtekanje	2	1
+rotirajoč projektilo	1	0
+tok zrak	1	0
+tlak	4	0
+površina	3	0
+hidrostatičen vzgon	2	1
+sila izpodrinjen tekočina	1	0
+prostornina izpodrinjen tekočina	1	0
+prostornina	1	0
+vzgon	2	0
+kinematika kroženje	1	1
+vsota	29	0
+radialen smer	8	0
+marr	3	0
+centripetalen sila	5	0
+inercialen sistem	3	0
+sistem zunanji opazovalec	1	0
+neinercialen sistem	8	0
+pospešen sistem	1	0
+sistem notranji opazovalec	1	1
+centrifugalen sila	4	0
+smer radijevektor	1	0
+krožeč sistem	2	0
+prem gibanje	3	0
+sistemski sila	4	0
+pospešek sistem	1	0
+pospešek telo	1	1
+pospešen kroženje	3	1
+prečen trenje	1	0
+stalen hitrost	1	1
+radius	1	0
+sila normala	4	0
+upor zrak	3	0
+rezultanta	2	0
+drug newtonov zakon	1	1
+odvod hitrost	1	0
+sunek sila	4	1
+začeten čas	1	0
+sprememba gibalen količina	2	1
+izrek o sprememba gibalen količina	2	0
+gibalen količina	15	1
+sunek	2	1
+izrek o sunek sila	3	1
+trk telo	2	1
+trk	23	1
+centričen trk	1	1
+sunek telo	1	1
+sunek zunanji sila	1	0
+izrek	1	0
+sil upor	1	0
+koeficient prožnost trk	3	1
+restitucijski koeficient trk	1	1
+indeks	4	0
+delno prožen trk	2	1
+prožen trk	2	1
+popolnoma prožen trk	1	1
+plastičen trk	1	0
+skupen masa	2	0
+odboj	1	1
+čas kompenzacija doskok	1	1
+doskok	6	1
+kompenzacija doskok	1	1
+kompenzacija	1	0
+zunanji sunek navor	4	0
+sistem masen točka	11	1
+hitrost sistem	1	0
+skupen masa sistem	1	1
+skupen krajeven vektor	2	0
+težišče sistem	1	0
+definiranje	1	0
+težišče tog telo	1	0
+težišče sistem masen točka	1	1
+dvodimenzionalen sistem	1	0
+koordinata točka	1	0
+tangencialen komponenta	1	0
+ročica	9	1
+navor	25	1
+vektorski produkt	2	0
+sinus vmesen kot	1	0
+sorazmernosten koeficient	1	1
+vztrajnosten moment	32	1
+osišče vrtenje	3	1
+kolenski sklep	1	1
+prečen sila	2	0
+smučka	5	0
+relativen sprememba obremenitev	1	0
+stojen višina	3	1
+vzdolžen sila	5	1
+robnik	1	0
+relativen sprememba	2	0
+golen	2	1
+relativen obremenitev koleno	1	1
+smučanje	1	1
+notranji navor	4	1
+notranji sila	1	0
+nepremičen os	6	0
+masen delec	1	0
+zunanji navor	1	0
+osišče	2	1
+lasten vrednost	10	0
+vztrajnosten tenzor	1	1
+os vrtenje	1	1
+krogla	2	1
+valj	1	1
+prečen os	2	1
+rotacija	3	1
+podlaket	1	1
+komolec	14	1
+odmikanje	1	1
+primikanje	1	0
+zunanji rotacija	1	0
+vzdolžen os	4	0
+navpičen os	1	1
+težiščen os	1	1
+težiščen točka	1	1
+rotacijski tehnika	1	1
+stalen os	1	1
+steinerjev izrek	2	1
+končen hitrost	1	0
+sunek navor	5	1
+vrtilen količina	9	0
+ekscentričen sila	1	0
+izrek o ohranitev vrtilen količina	1	1
+modeliranje prevrato prosto naprej	1	1
+odriv	5	1
+centričen delovanje sila težko	1	1
+ekscentričen sila podlaga	1	0
+brezoporen faza	3	1
+sunek sila podlaga	2	0
+pritiskoven plošča	5	1
+sagitalen ravnina	1	0
+navpičen hitrost	1	0
+odrivati	1	0
+prevrat prosto naprej	2	1
+zasuk telo	1	1
+koten hitrost vrtenje	2	0
+prevrat	1	1
+homogen valj	1	1
+trup	8	1
+začeten frekvenca kroženje	1	1
+antropometrijski preglednica	1	0
+odročen roka	4	1
+priročen roka	2	1
+zunanji os	1	1
+del sila	1	0
+premikati	3	1
+premik	6	1
+velikost sila	2	0
+mehanski delo	3	0
+delo sila	3	0
+višinski razlika	3	0
+težnosten pospešek	1	0
+potencialen energija	12	0
+kinetičen energija	9	1
+skok v višina	3	1
+padanje težišče telo	1	1
+kroženje točkast telo	2	1
+radialen sila	1	1
+masen element	2	1
+oboden hitrost	1	1
+rotacijski kinetičen energija	1	1
+kinetičen translacijski energija	1	1
+prožnosten koeficient	1	1
+sila prožnost	2	1
+prožnosten energija	3	1
+nekonzervativen sila	3	0
+zaključen pot	2	0
+nekozervativen sila	2	0
+veletoč	2	1
+veletoča	1	1
+sila upor zrak	1	1
+stoja	21	1
+višina težišče telo	1	1
+koeficient prožnost	1	0
+mehanski energija	1	0
+moč	7	1
+tudi	1	0
+vrtenje	2	1
+smuk	1	1
+naklon	2	0
+moč sila trenje	2	0
+moč sila upor	2	0
+gostota zrak	1	1
+biomehanika alpski smučanje	1	1
+biomehanika šport	2	1
+kinogram	1	1
+naravosloven veda	1	0
+funkcionalen anatomija	1	1
+kineziologija šport	1	1
+ukrivljen gibanje	1	1
+obtekanje tekočina	1	1
+globinski doskok	1	1
+valgusen navor kolenski sklep	1	1
+steinerjev zakon	1	1
+ekscentričen odriv	1	1
+prevrato prosto naprej	1	1
+gimnastika	2	1
+skok z elastika	1	1
+izrek ohranitev mehanski energija	1	1
+fizikalen medicina	1	1
+ergonomija	1	1
+športen tehnologija	1	1
+ortopedija	1	1
+kineziolog	1	1
+športen stroka	1	1
+spektrometer pozitronski anihilacija	1	1
+prost volumen	1	1
+viskoelastičen material	1	0
+strojništvo	1	0
+biomehanski parameter	1	1
+tekmovalen slalomski tehnika	1	1
+biomehanik šport	1	1
+biomehanika športen gibanje	1	1
+informacijski tehnologija	1	0
+človeški telo	4	1
+a demonstratorski vrsta	1	0
+biomehanik alpski smučanje	1	1
+simetrija	11	0
+telesen značilnost	52	1
+ravnotežen položaj	27	1
+stoja na noga	3	1
+stoje na noga	1	1
+doktorski študij	1	0
+meritev	220	0
+merjenec	129	1
+merilec	2	0
+vrteč stol	2	0
+doktorski delo	2	0
+ravnotežje	246	1
+simetrija telo	46	1
+čutilo	3	1
+stoja z izvzet vid	3	1
+stoja z izvzet sluh	4	1
+ravnotežen organ	52	1
+noga	86	1
+ohranjanje ravnotežje	62	1
+skok	45	1
+telesen sestava	2	1
+telesen obseg	2	1
+podplat	7	1
+pritiskoven senzor	6	1
+simetrija noga	3	1
+stopalo	44	1
+pust masa	26	0
+asimetrija roka	3	1
+nadlahet	9	1
+roka	24	1
+telesen simetrija	5	1
+čuten sistem	11	1
+asimetrija telo	20	1
+asimetričen telo	2	1
+motnja ravnotežen organ	6	1
+spremenljivka	171	0
+kratica	3	0
+ms	11	0
+masen središče	13	1
+sp	104	0
+središče pritisk	4	0
+prijemališče sila	1	1
+pp	3	0
+podporen površina	39	1
+su	1	0
+nsu	1	0
+rama	7	1
+obseg	22	1
+podlahet	7	1
+zapestje	7	1
+steg	1	1
+koleno	16	1
+meč	2	1
+širina	3	0
+ploskost	3	1
+clarkov metoda	7	0
+točka » acromion	1	1
+clarksov metoda	2	1
+odtis	3	1
+ohranjanje stoja snožno	16	1
+ohranjanje stoja snožno z izvzet vid	16	1
+ohranjanje stoja snožno po motnja ravnotežen organ	31	1
+obračanje v smer urin kazalec	43	1
+obračanje v nasproten smer urin kazalec	39	1
+ohranjanje stoja snožno z izvzet sluh	16	1
+vzpostavljanje stoja snožno po skok	16	1
+vzpostavljanje stoja snožno z izvzet vid po skok	9	1
+vzpostavljanje stoja snožno z izvzet sluh po skok	9	1
+vzpostavljanje stoja snožno po skok po motnja ravnotežen organ	32	1
+normiran absoluten vrednost	109	0
+pot sp v smer a / p	26	1
+pot sp v smer m / l	15	1
+vzpostavljanje stoja snožno po skok z izvzet vid	7	1
+vzpostavljanje stoja snožno po skok z izvzet sluh	7	1
+dejavnik razlika v sila	10	0
+dejavnik pot sp v smer m / l	10	1
+dejavnik pot sp v smer a / p	10	1
+ohranjanje stoja nožno po motnja ravnotežen organ	1	1
+fiziološki postopek	1	0
+telesen podsistem	1	1
+mišičnosskeleten sestavina	1	1
+položaj telo	2	1
+gibalen delo	1	0
+telesnosčuten sestaven del	1	1
+težnost	2	0
+položaj del telo	1	1
+centralen živčen sistem	15	1
+gibalen sposobnost	11	1
+merilen test	1	0
+gibanje telesen drža	1	1
+vztrajnosten sila	7	0
+vztrajnosten značilnost	2	1
+dvonožen bitje	1	1
+brezsoporen faza	1	1
+drža	20	1
+koten mera	2	0
+gravitacijski vektor	2	1
+oroden telovadba	3	1
+dinamika drža telo	1	1
+stabilen položaj telo	2	1
+gib	2	1
+odklon telo	1	1
+stabilen položaj	1	1
+kompenzacijski gib	1	1
+ravnotežen spretnost	1	1
+ravnotežen položaj drža	1	1
+ravnotežen položaj med gibanje	1	1
+ravnotežen položaj med upravljanje objekt	1	1
+ravnotežen položaj med gibanje in upravljanje objekt	1	1
+zakon gibanje	1	1
+porazdelitev masa	1	1
+nedejaven spremenljivka	1	0
+ravnotežen nadzoren sistem	1	1
+prijemališče sila reakcija podlaga	1	1
+porazdelitev sila	1	0
+podporen plošča	1	0
+dvo delen podporen plošča	1	0
+naraven nadzor mišica	1	1
+upogibalka stopalo	2	1
+sukalka stopalo	1	1
+telesen višina	4	1
+dolžina stopalo	3	1
+širina razkorak	1	1
+propriocepcija	6	1
+čuten zaznavanje	3	1
+proprioceptor	2	1
+aferenten živčen vlakno	2	1
+biomehanski model vzdrževanje ravnotežje	1	1
+ravnovesje	4	1
+stalen ravnotežen položaj	1	1
+nestalen položaj telo	1	1
+nestabilen stanje telo	1	1
+nestalen ravnotežen položaj	1	1
+stabilen ravnotežen položaj	1	1
+neopredeljen ravnotežje	1	1
+neopredeljen ravnotežen položaj	1	1
+ravnina xy	1	0
+nestalen položaj	1	1
+model obrnjen nihalo	4	1
+centralen težišče telo	2	1
+statičen sistem	1	0
+telesen drža	7	1
+mehanski ravnovesje	1	0
+navpičen projekcija	1	0
+model nihalo	1	1
+sklep tibia-tarsal	1	1
+koeficient korelacija	2	0
+navpičnica težišče	1	1
+ravnovesen položaj	2	1
+vektor sila	1	0
+mišičnosskeleten sistem	2	1
+nadzoren sistem telesen	1	0
+telesen masa	7	1
+podporen ploskev	5	1
+navpičen projekcija težišče	1	1
+cžs	9	0
+pričakovan popravek drža	1	1
+mišica trup	3	1
+pokončen drža	3	1
+os gleženj	1	1
+os skočen sklep	1	1
+plantaren fleksor stopalo	1	1
+dorzalen fleksor	1	1
+gravitacija	3	0
+podporen površina stopalo	1	1
+ravnovesje sila	1	1
+podporen kot	1	1
+smer naprej-nazaj	5	1
+a / p	1	1
+smer levo-desno	5	1
+m / l	1	0
+razkorak	1	1
+nadzoren sistem	2	0
+gibalen sistem	3	1
+nadzoren sistem ravnotežje	1	1
+stoja na mehek podlaga	1	1
+čutilen priliv	1	1
+vid	13	1
+čutnošgibalen sistem	3	1
+osrednji živčevje	1	0
+krčenje	3	1
+sklep	14	1
+čutiti	2	1
+ravnotežen čuten sistem	1	1
+viden sistem	3	1
+telesnosčuten sistem	1	1
+podporen podlaga	2	1
+telesnočuten sistem	1	1
+viden zaznavanje	2	0
+biološki tipalo	1	1
+sklepen receptor	1	1
+kinestezija	1	1
+stabilizacija sklep	1	1
+zunanji čuten mehanovsprejemnik	2	1
+zunanji sprejemnik	1	0
+centralno ustvarjen gibalen ukaz	1	1
+mišičen vreteno	2	1
+golgijev kiten organ	2	1
+kožen sprejemnik	1	1
+merkeljev ploščica	1	1
+meissnerjev telesce	1	1
+rufinijev končič	2	1
+pacinijev telesce	2	1
+sklepen sprejemnik	1	1
+golgijev končič	1	1
+prost živčen končič	1	1
+tipalo	3	0
+mišičen vlakno	3	1
+kita	5	1
+raztezanje	1	1
+hrbtenjača	1	1
+možgani	3	1
+zavesten gibalen dejavnost	1	1
+gibalen nadzor	1	1
+živčnonmišičen sistem	3	1
+refleks na nateg	2	1
+recipročen inhibicija	1	1
+rekurenten inhibicija	1	1
+predsinaptičen inhibicija	1	1
+alfaga koaktivacija	1	0
+koaktivacija mišica	1	1
+sklepen stabilizacija	1	1
+vestibularen organ	1	1
+notranji uho	1	1
+slušen organ	1	1
+polž	1	0
+otoliten organ	2	1
+urtrikul	2	1
+sakula	2	1
+linearen pospešek	3	0
+polkrožen kanal	10	1
+ampularen greben	1	1
+kupola	4	0
+greben	2	0
+veziven tkivo	3	1
+krven žila	2	1
+živčen vlakno	2	1
+ampula	1	0
+sprejemen celica	4	1
+dlačnica	2	1
+endolimfen tekočina	3	1
+sprejemnik	4	1
+povrhnjica	1	1
+sinaptičen mešiček	1	1
+aferenten vlakno	1	1
+endolimfa	1	1
+makula	5	1
+receptor	2	1
+otoliten membrana	1	1
+kalcijev karbonat	1	0
+otolit	1	1
+glava	9	1
+vršiček sprejemnik	2	1
+kanal	7	0
+proženje	1	1
+dovoden živec	2	1
+živec ravnotežen organ	1	1
+mali možgani	6	1
+ravnotežen signal	3	1
+oči	3	1
+mrežnica	1	1
+mišica noga	1	1
+dlačica	2	1
+telesnočuten informacija	1	1
+telesen del	3	1
+viden čuten zaznavanje	1	1
+gibanje glava	1	1
+viden informacija	1	1
+centralen središčen viden informacija	1	1
+zunanji obroben informacija	1	0
+viden podatek	4	0
+srednji uho	1	1
+proprioreceptor	1	1
+tipen sprejemnik	1	1
+doskok salto	1	1
+temeljen gibalen skorja	1	1
+gibalen živčen vlakno	1	1
+motonevron	1	1
+mišičen aktivacija	6	1
+zaprt zanka	5	0
+efektor	3	0
+odprt zanka	4	0
+centralen sistem	1	1
+čuten informacija	3	1
+okončina	5	1
+hoja	3	1
+dinamičen ravnotežje	8	1
+živčnomišičen sistem	1	1
+povraten zanka	3	0
+zunanji mišičen aparat	1	1
+toničen delovanje	1	1
+notranji sprejemnik	1	0
+gibalen skorja	2	1
+korteks	1	1
+živčen impulz	3	1
+alf gibalen živec	2	1
+skelet	3	1
+kost	8	1
+gibljivost	3	1
+bruto obremenitev	1	1
+neto obremenitev	1	0
+kit	2	1
+tetiva	2	1
+kolagenski vlakno	1	1
+beljakovinski vlakno	1	1
+tkivo	1	0
+gib v sklep	1	1
+premikanje	1	0
+mišičen celica	2	1
+kolagenski veziven tkivo	1	1
+sarkomer	2	1
+protein	1	0
+krčljiv protein	1	1
+aktinski vlakno	1	1
+uravnalen protein	1	0
+tropozin	1	1
+tropomionin	1	1
+strukturen protein	1	0
+zvdisko	1	1
+miozinski vlakno	1	1
+polipeptiden veriga	1	0
+globularen glavica	1	1
+sarkomera	2	1
+miozin	2	1
+strukturen m protein	1	1
+miozinski nitka	1	1
+prečen mostiček	5	1
+debel vlakno	1	1
+tanek vlakno	1	0
+aktinski nitka	4	1
+globularen molekula aktin	1	1
+mišičen krčenje	1	1
+miozinski	1	0
+aktin	1	1
+vlakno	1	1
+prečen mostič	3	1
+živčen akcijski potencial	1	1
+živec	1	1
+akcijski potencial	1	1
+membrana	1	1
+živčen celica	1	1
+prag vzdraženost	1	1
+na + kanal	3	0
+k + kanal	3	0
+repolarizacija	1	0
+membranski potencial	3	1
+hiperporalizacija	1	0
+alfa motonevron	1	1
+subkortikalen jedro	1	1
+retikularen informacija	1	1
+ravnotežen jedro	1	1
+živčno mišičen sistem	1	1
+uravnalen center	1	1
+eferenten pot	1	1
+eferenten živčen vlakno	1	1
+žleza	1	1
+aferenta živčen vlakno	1	1
+čuten sprejemnik	1	0
+mišičen napetost	1	1
+togost mišica	1	1
+mišičen tonus	2	1
+protisgravitacijski mišica	2	1
+soleus	1	1
+gastrocnemius	1	1
+zgornji skočen sklep	1	1
+tibialis anterior	1	0
+gluteus medius	1	1
+tensor fascie latae	1	0
+iliopsoas	1	1
+kolčen sklep	1	1
+toracic erector spinae	1	0
+zunanji motnja ravnotežje	1	1
+monosinaptičen refleks	1	1
+ravnotežen strategija	4	1
+ravnotežnosten strategija	2	1
+mišičen sinergist	1	1
+gibalen vzorec	1	1
+navor v sklep	1	1
+reakcijski sila podlaga	1	1
+motnja ravnotežje	4	1
+strategija gleženj	4	1
+strategija kolek	4	1
+strategija korak	2	1
+pokončen stoja	1	1
+gleženj	7	1
+nadomesten gibanje	1	1
+skočen sklep	1	1
+stojen površina	1	1
+upogibalka koleno	1	1
+stabilizacija	1	1
+kolek	4	1
+hrbtenica	1	1
+laterommedialen motnja	1	1
+bok	1	1
+popravljalen navor	1	0
+širok razkoračen stoja	1	1
+enonožen stoja	2	1
+motnja čuten sistem	1	1
+koeficient intraklasen korelacija	1	1
+icc	2	0
+kumulativen parameter	2	0
+amax	1	0
+f	1	0
+anterovposterioren smer	1	1
+frekvenca nihanje	1	0
+kliničen praksa	1	1
+nihanje telo	3	1
+gibalen strategija	1	1
+strategija bok	1	1
+statičen ravnotežje	4	0
+statičen površina	1	0
+prostorski gibanje	2	1
+gibljiv površina	1	1
+telesen asimetrija	7	1
+dvostranski simetrija	1	1
+radialen simetrija	1	0
+popoln nesimetrija	1	1
+anatomski zgradba	1	1
+orientacijski ravnina	2	1
+os telo	1	1
+čelo	1	1
+temen	1	1
+pet	1	1
+trebuh	1	1
+hrbet	1	1
+čelen ravnina	2	0
+dolžinsko os.	1	0
+vodoraven ravnina	2	0
+globinski os.	2	1
+bočen ravnina	1	0
+bočnossredinski ravnina	1	1
+ravnina simetrija	1	0
+asimetrija	13	0
+biomehaničen asimetrija telo	1	1
+gibalen aparat	1	1
+človekov drža	1	1
+mišičen skupina	2	1
+antagonist	1	0
+asimetričen obremenjevanje	1	1
+simetričnost	3	1
+normalizacija drža	1	1
+ploskost stopalo	6	1
+teža telo	1	1
+ligament	1	1
+lok stopalo	2	1
+vzdolžen sredinski lok	1	1
+vez	1	0
+elastičnost stopalo	1	1
+sredinski vzdolžen lok	1	1
+loki stopalo	1	1
+plosk stopalo	4	1
+nožen obok	1	1
+motnja struktura stopalo	1	1
+sredinski stopalen lok	2	1
+everzija	1	1
+goleničen mišica	1	1
+aktiven stabilizacija	1	1
+prevladujoč stran telo	2	1
+lateralizacija	1	1
+možganski hemisfera	1	1
+hemisfera	2	1
+dominantnost	2	0
+lev hemisfera	1	1
+desen hemisfera	1	1
+tekočnost	1	1
+koordinacija gib	2	1
+mišljenje	1	1
+prednosten stran	1	0
+zarodek	1	0
+prevlada roka	1	1
+oko	1	1
+možganski polovica	1	1
+prednosten smer obračanje	15	1
+smer obračanje	13	1
+umetnosten drsanje	2	1
+umetnosten kotalkanje	1	1
+kajakaštvo	1	1
+prevladujoč roka	3	1
+podporen noga	11	1
+pirueta	4	1
+tridimenzionalen kinematika	1	1
+kinestetičen zaznavanje	6	1
+mešan zaznavanje	2	1
+telesen os	1	1
+stranskost	2	0
+ravnotežnostenhrbenje asimetrija	1	1
+unterbergerlfukud test hoja	1	1
+stegnjen skok za 360 o	1	1
+premet v stran z obrat na noter	1	1
+prednosten obračanje	2	1
+stati na roka	1	1
+stegnjen skok za 360 o.	1	1
+ravnotežnostenjačnjačen asimetrija	1	1
+klasičen balet	1	1
+prevladujoč smer obračanje	1	0
+biomehaničen lastnost	1	1
+smer obračanje telo	1	1
+biomehanski asimetrija	2	1
+golenica	7	1
+funkcionalen asimetrija telo	1	1
+prednosten noga	2	1
+mišičen moč	1	1
+indeks telesen masa	5	1
+itm	5	0
+telesen maščoba	2	1
+epifizen širina	1	1
+simetrija gibanje	1	1
+asimetričnost telo	1	1
+kroničen nestabilnost	1	1
+akuten stranski zvin gleženj	1	1
+zvin gleženj	1	1
+mišičnovveziven aparat	1	1
+asimetričen šport	1	0
+asimetričen učinkovitost mišičen sistem	1	1
+maščoba	1	1
+ne prevladujoč roka	1	1
+izokinetičen navor	1	1
+kolenski mišica	2	1
+nevprevladujoč noga	2	1
+stegenski mišica	1	1
+asimetrija spodnji okončina	1	1
+spodnji ud	1	1
+neprevladujoč spodnji okončina	1	1
+prevladujoč okončina	1	1
+pogonski moč	2	0
+obrat telo	4	1
+polistrukturen konvencional šport	1	0
+ritmika	1	1
+ples	1	1
+kotalkanje	1	1
+obračanje telo	5	1
+atletika	1	1
+met kladivo	1	1
+met disk	1	1
+polistrukturen kompleksen šport	1	1
+merjenka	2	1
+semicirkularen kanal	1	1
+flamingo test	2	1
+test hoja po raven črta	1	1
+ravnotežen test	1	1
+barana stol	1	0
+dolžinski os	2	0
+spoznaven sposobnost	1	1
+gibalen učenje	1	1
+dednost	1	0
+normalen vid	1	0
+tenziometrijski ravnotežen plošča	1	1
+proprioceptiven informacija	1	1
+test ravnotežje	1	1
+test koordinacija	2	1
+zveznost okovrok	1	1
+zaznaven sposobnost	1	1
+globinski vid	1	1
+reakcijski čas	1	1
+predvidevanje skladnost	1	0
+koordinacija	1	1
+asimetričnost telesen značilnost	2	1
+stoja snožno	68	1
+stati snožno	28	1
+sluh	8	1
+asimetrija v telo	1	1
+mišičen masa	4	1
+nadomesten gib	1	1
+obračanje telo v sed	4	1
+helsinskontokijski deklaracija	1	0
+meritev telesen značilnost	3	1
+3 d čitalec	2	0
+ploskost podplat	1	1
+površina odtis stopalo	2	1
+dexa	1	0
+podvoden tehtanje	1	0
+3 d telesen čitalec	1	1
+d model	1	0
+3 d model	1	1
+večkraten odčitavanje	1	0
+odtis stopalo	1	1
+površina odtis	1	1
+peta	1	1
+vzdolžen lok	1	1
+kotomer	1	0
+neodvisen spremenljivka	49	0
+pust masa noga	1	1
+pust masa roka	2	1
+obseg meč	3	1
+obseg podlahet	3	1
+višina rame	2	1
+obseg stegno	1	1
+obseg nadlahet	2	1
+obseg biceps	1	1
+pazduha	1	1
+obseg zapestje	2	1
+obseg koleno	2	1
+obseg komolec	3	1
+telesen meritev	1	1
+širina stopalo	2	1
+kot ploskost stopalo	1	1
+antropometrija	1	1
+vzpostavljanje ravnotežje	70	1
+pedarx sistem	1	1
+medicinski pripomoček	1	1
+sila pritisk	1	1
+pot središče pritisk	2	0
+smer m / l	7	1
+smer a / p.	3	1
+3 d kinematika	1	1
+odseven označevalec	5	0
+smer x	1	0
+priročenje	1	1
+dinamičen skok	2	1
+merjenje ravnotežje	1	1
+dinamičen stanje	1	1
+diferencial	1	1
+protihrupen slušalka	2	1
+prehod zvok	1	0
+stoje snožno	48	1
+pot sp	97	0
+označevalec	1	0
+metatarzalen sklep	2	1
+prst	1	1
+vektor stopalo	1	1
+povprečen vrednost	3	0
+standarden odklon	4	0
+opisen statistika	14	0
+aritmetičen sredina	18	0
+visok vrednost	2	0
+test normalnost porazdelitev	2	1
+normalnost porazdelitev	1	0
+neparametričen test	2	0
+one kolmogorovesmirnov test	2	1
+wilcoxon signed-rank test	5	1
+paren t-test	2	1
+desen stran telo	2	1
+faktorski analiza	21	0
+faktor	1	0
+dejavnik	2	0
+cronbach alfa koeficient	45	1
+regresijski analiza	30	0
+test razlika	1	1
+korelacijski koeficient	9	0
+multipel korelacija	2	0
+korelacijski vrednost	3	0
+fisherjev transformacija	3	1
+statističen test	1	0
+telesen spremenljivka	6	1
+nizek vrednost	1	0
+one kolmogorov-smirnov test	1	1
+pritiskoven stopalen vložek	1	1
+lev stopalo	1	1
+desen stopalo	1	1
+skupen sila	19	0
+sila lev noga	19	1
+sila desen noga	19	1
+povprečen skupen sila	1	0
+lev noga	7	1
+stoja snožno z izvzet vid	30	1
+stoje snožno z izvzet vid	21	1
+desen noga	8	1
+stoja snožno z izvzet sluh	25	1
+stoje snožno z izvzet sluh	17	1
+stoja snožen	1	1
+spremenljivka ravnotežje	1	0
+normalen porazdelitev	14	0
+obseg meča	1	1
+mediana	2	0
+hipotetičen mediana	2	0
+kolmogorovesmiren test	2	1
+smer a / p	5	1
+wilcoxon signed-rank test )	1	1
+stati	9	1
+paren tvtest	2	0
+paired-samples t-test	1	1
+dvostranski test	1	1
+enostranski test	2	0
+površina stopalo	1	1
+populacijski aritmetičen sredina	1	0
+metoda » principal components «	1	0
+varimax « metoda	2	0
+metoda regresija	1	0
+korelacija	80	0
+obračanje	28	0
+matrika faktorski sklop	3	0
+korelacija spremenljivka	2	0
+smer m / l.	2	1
+izkustven učenje	1	0
+stoje snožno po skok z izvzet sluh	1	1
+stoje snožno po skok	3	1
+raziskava	9	0
+test zanesljivost	2	0
+stoje snožno z odsotnost vid	2	1
+cronbach alfa	11	1
+cronbach alf koeficient	2	1
+cronbachov alfa	1	0
+test	1	0
+cronbach alf	2	1
+stoje snožno z odsotnost sluh	1	1
+snožno z odsotnost vid	1	1
+cronach alfa	1	1
+snožno z izvzet sluh	1	1
+odvisen spremenljivka	21	0
+koračen metoda	2	1
+stati snožno z izvzet vid	13	1
+stati snožno z izvzet sluh	11	1
+regresijski model	8	0
+beta koeficient	3	0
+stati snožno po skok z izvzet sluh	2	1
+stoje snožno po skok z izvzet vid	1	1
+skok z izvzet vid	1	1
+telesen zančilnost	1	1
+stati snožno po skok	1	1
+stegno	4	1
+rame	11	1
+stati snožno po skok z izvzet vid	1	1
+bet koeficient	1	1
+stati z izvzet sluh	4	1
+statističen razlika	6	0
+stati z izvzet vid	3	1
+stoje	1	1
+gibalen lastnost	1	1
+merilen postopek	1	0
+padec	1	1
+pokončen položaj	1	0
+stoja brez vid	1	1
+stoja brez sluh	1	1
+na stoja z izvzet vid	1	1
+na stoja z izvzet sluh	1	1
+meča	3	1
+statistično značilen razlika	5	0
+dvosmeren paren tvtest	1	1
+enosmeren paren t-test	1	1
+mehek tkivo	2	1
+okostje	3	1
+športen vadba	4	1
+vadba	2	1
+zgornji okončina	1	1
+dvosmeren paren t-test	1	1
+asimetričen telesen drža	1	1
+ramenski sklep	1	1
+spuščen rame	1	1
+dvignjen rama	1	1
+napačen ukrivljenost hrbtenica	1	1
+stranski krivina hrbtenica	1	1
+skolioza	2	1
+stranski krivina	2	0
+vretence	3	1
+skazitev rebra	1	1
+obračanje vretence	1	1
+medenica	1	1
+krivina	1	0
+skazitev hrbtenica	1	1
+skazitev prsen koš	1	1
+grba	1	0
+lopatica	1	1
+prevladujoč noga	3	1
+stoje snožno z izvzet sluh pri ohranjanje ravnotežje	1	1
+razporeditev sila težko	1	1
+sila telo	1	0
+telesen dvostranski asimetrija	1	1
+enostranski šport	1	0
+splošen športen dejavnost	1	1
+rekreativen raven	1	1
+statistika	1	0
+pozitiven predznak	2	0
+stati snožno po motenje ravnotežen organ v smer urin kazalec	1	1
+nasproten smer urin kazalec	3	1
+vodoraven polkrožen kanal	1	1
+stati snožno po obračanje v smer urin kazalec	3	1
+vzpostavljanje ravnotežje po motenje ravnotežen organ	1	1
+merjenje	1	0
+vzpostavljanje ravnotežje po skok	1	1
+testiranje ravnotežje na pritiskoven plošča	1	1
+dinamičen sledenje	1	0
+naključen krivulja	1	0
+poostren rombergov test	1	0
+test z pameten ravnotežen deska	1	1
+študija	1	0
+referenčen vrednost	1	0
+stoja snožno po obrat	2	1
+refleksen gib	1	1
+refleks	1	1
+strategija stopalo	1	1
+strategija korak ali poskok	2	1
+lovljenje ravnotežje	2	1
+strategija gleženj in kolek	1	1
+popravek v stoja	1	1
+stoja razkoračno	2	1
+prisun	1	1
+normiran absoluten razlika	11	0
+v nasproten smer urin kazalec	3	1
+stoje snožno po motnja ravnotežen organ	1	1
+stoja snožno po obračanje v smer urin kazalec	10	1
+stoja snožno po obračanje v nasproten smer urin kazalec	12	1
+stati snožno po obračanje	2	1
+zaznavanje položaj telo	1	1
+mišičen delovanje	1	1
+motnja ravnotežen položaj	1	1
+popravek telesen del	1	1
+snožno z izvzet vid	1	1
+globinski skok	1	1
+tipen organ	1	1
+naglušen otrok	1	0
+gibalen razvoj	1	1
+izguba sluh	1	1
+stati snožno po skok po motnja ravnotežen organ	1	1
+v smer urin kazalec	1	0
+zanesljivost meritev	7	0
+veljavnost meritev	1	0
+metoda glaven komponenta	1	0
+prvi glaven dejavnik	1	0
+prvi dejavnik	3	0
+spremenljivost	20	0
+snožno po obračanje v nasproten smer urin kazalec	1	1
+pojasnjen spremenljivost	6	0
+stoja snožno po obračanje	2	1
+koeficient cronbach alfa	1	1
+stati snožno po obračanje v nasproten smer urin kazalec	2	1
+cronbach alfa koeficieta	1	1
+skupen spremenljivost	3	0
+stoja snožno po skok	1	1
+stoja snožno po skok po obračanje v smer urin kazalec	1	1
+veljavnost	2	0
+stoja snožno z obračanje v smer urin kazalec	1	1
+pregleden raziskava	1	0
+merilen sistem	3	0
+analiza ravnotežje	1	1
+upogibalec gleženj	1	1
+vzdrževanje ravnotežen položaj z strategija gleženj	1	1
+togost gleženj	1	1
+stopalen loka	1	1
+mišičnovkiten sistem	1	1
+bosonog tek	2	1
+propriocepcija stopalo	1	1
+telesnosčuten podatek	1	1
+informacija vid	1	1
+hrbten mišica	11	1
+vzpostavitev ravnotežje	1	1
+zanesljivost	1	1
+statistično značilen spremenljivka	2	0
+hipoteza	23	0
+popravek drža	12	1
+stoja snožno pri izvzet vid	4	1
+asimetričnost	3	0
+stoja snožno pri izvzet sluh	3	1
+regresijski preglednica	2	0
+longitudinalen raziskava	1	0
+stoja snožno po motenje ravnotežen organ	1	1
+obračanje telo v smer urin kazalec	1	1
+obračanje telo v nasproten smer urin kazalec	1	1
+togost telo	2	1
+koaktivacija	1	1
+togost sklep	2	1
+nihanje	2	1
+ohranjanje ravnotežje po motnja ravnotežen organ	1	1
+koeficient zanesljivost	1	0
+ohranjanje ravnotežje po motnja ravnotežen organ z obračanje	1	1
+oporen točka	1	1
+pustiti masa	2	0
+togost	1	1
+stoja snožno po motenje ravnotežen organ z obračanje telo v sed	3	1
+pritisk	3	1
+metodologija	1	0
+sedišče pritisk	1	1
+stati snožno z izvzet sluh po skok	1	1
+vzpostavljanje ravnotežje glede na smer motenje ravnotežen organ	1	1
+značilen spremenljivka	1	0
+obrat v smer urin kazalec	1	1
+stoja po obračanje v smer urin kazalec	2	1
+statističen potrditev	1	0
+stoje snožno po obračanje v smer urin kazalec	1	1
+z-test	1	0
+analiza	2	0
+podstavek za skok	2	1
+plošča	1	0
+merilen metoda	1	0
+ohranjati ravnotežje	2	1
+simetričen telo	2	1
+asimetričen obremenitev	1	1
+dvostranski asimetričen telo	1	1
+izravnalen mehanizem	1	0
+moč trup	1	1
+mehanizem	1	0
+gibanje z zaprt zanka	1	1
+povraten informacija	1	0
+prilagajanje drža	1	1
+stoja snožno po motnja ravnotežen organ	1	1
+telesen razlika	1	1
+ohranjanje ravnotežje po motnja ravnotežen organ v smer urin kazalec	1	1
+motenje ravnotežen organ	1	1
+stoja po obračanje v nasproten smer urin kazalec	1	1
+polistrukturen konvencionalen šport	1	1
+starosten kategorija	28	0
+poklicen gasilec	13	0
+model preverjanje gibalen sposobnost gasilec	1	1
+varstvo pri delo	3	0
+medicina in šport	1	0
+zakon o gasilstvo	1	0
+kandidat za gasilec	1	0
+gasilstvo	1	1
+besedilo	1	0
+deloven razmerje	2	0
+strokoven izobrazba	1	0
+tehniški smer	1	0
+kazenski postopek	1	0
+kazniv dejanje zoper življenje , telo in premoženje	1	0
+preizkus psihofizičen sposobnost	4	1
+zakon	2	0
+preizkus znanje	1	0
+zdravniški pregled	2	0
+deloven mesto	1	0
+psihofizičen sposobnost	1	1
+minister	1	0
+zdravstven sposobnost	1	1
+poveljnik	3	0
+prostovoljen gasilski	1	0
+prostovoljen gasilski enota	1	0
+intervencijski pripravljenost	1	0
+intervencija	2	0
+strokoven usposabljanje	1	0
+urjenje	1	0
+kondicijski pripravljenost	1	1
+reševalen oprema	1	0
+gibalen sposobnost gasilec	2	0
+gasilec	62	0
+testiranje gibalen sposobnost	1	1
+preizkus gibalen sposobnost gasilec	1	0
+starosten struktura	2	0
+model vadba	1	1
+deloven naloga	2	0
+športen dejavnost	1	1
+gasilski brigada	1	0
+bolniški dopust	1	0
+odsotnost z delo	1	1
+baterija test	4	0
+preventiven program vadba	1	1
+gasilski oprema	4	0
+testen baterija	3	0
+periodičen testen baterija	1	1
+zaščiten oprema	1	0
+testiranje	1	0
+program vadba	1	1
+deloven čas	1	0
+vadben skupina	1	1
+voluminozen razsežnost telo	2	1
+teža	1	1
+povprečen telesen teža	4	0
+povprečen telesen višina	6	1
+kategorija	4	0
+telesen teža	2	1
+vzdržljivost	6	1
+kompleksen gibanje	1	1
+izometričen moč	6	1
+trebušen mišica	10	1
+upogibalka kolek	2	1
+mih	2	0
+miza	2	0
+stisk roka	1	1
+stisk	1	0
+dinamometer	1	1
+nedominanten roka	1	1
+ramenski obroč	10	1
+test vzdržljivost v moč	1	1
+mdn	3	0
+vzdržljivosten moč	1	1
+počep z breme	1	1
+počep	1	1
+spodnji okončina	1	1
+mit	3	0
+stiska roka	2	1
+mdr	2	0
+prenašanje breme	10	1
+h20b	2	0
+agilnost z prenašanje breme	1	1
+assb	7	0
+pospeševanje	1	1
+infrardeč fotocelica	2	0
+agilnosten test	1	1
+test agilnost	6	1
+vzdržljivosten test	6	1
+vft	8	0
+kisik	8	0
+obremenitev	2	1
+izčrpanost	1	1
+orientacija	1	1
+zvočen signal	1	0
+sekvenca	1	0
+test vzdržljivost	5	1
+srčen utrip	2	1
+vo2max	4	1
+vzdržljivosten tek	1	1
+starosten razred	1	0
+agilnost	1	1
+reševalen akcija	2	0
+literatura	1	0
