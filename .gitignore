@@ -1,2 +1,8 @@
 /.DS_Store
 /venv
+/candidates
+/conll
+
+/index_folder
+/sentence_indexer
+/gs
